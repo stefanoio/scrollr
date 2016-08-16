@@ -40,7 +40,7 @@
 				target;
 			scrollTo(pageXOffset, lastPageYOffset);
 			targetPageYOffset = false;
-			if((location.hash === "#") || (!location.href.hash.length && (location.href.substr(-1) === "#"))) {
+			if((location.hash === "#") || (!location.hash.length && (location.href.substr(-1) === "#"))) {
 				targetPageYOffset = 0;
 			} else {
 				target = document.getElementById(location.hash.substr(1));
