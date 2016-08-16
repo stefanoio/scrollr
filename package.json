@@ -1,0 +1,21 @@
+{
+  "name": "scrollr",
+  "version": "1.0.0",
+  "description": "The super lightweight zero dependencies useful utility for non prehistoric browsers.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanoio/scrollr.git"
+  },
+  "author": "Stefano Peloso",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/stefanoio/scrollr/issues"
+  },
+  "scripts": {
+    "build": "uglifyjs src/scrollr.js -o dist/scrollr.min.js -c -m"
+  },
+  "homepage": "https://github.com/stefanoio/scrollr#readme",
+  "devDependencies": {
+    "uglify-js": "^2.7.0"
+  }
+}
