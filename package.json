@@ -1,7 +1,7 @@
 {
   "name": "scrollr",
   "version": "1.0.0",
-  "description": "The super lightweight zero dependencies useful utility for non prehistoric browsers.",
+  "description": "Easy peasy smooth scrolling.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/stefanoio/scrollr.git"
