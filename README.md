@@ -6,7 +6,7 @@ It works with links, js changes to location, manual changes to #hash by the user
 
 It works on any modern browser (IE10+) and has no dependency from any other libraries.
 
-Here’s a demo: http://stefanoio.github.io/scrollr/demo.html
+Here’s a demo: https://stefano.io/scrollr/demo.html
 
 To build a minified version inside the dist folder you can use:
 ```
